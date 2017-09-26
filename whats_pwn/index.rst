@@ -8,13 +8,8 @@ Welcome to What's Pwn's documentation!
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+   :caption: 目次:
+   :numbered:
 
    introduction/lib.rst
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+   whats_pwn/lib.rst
