@@ -8,7 +8,7 @@ CTF―Capture The Flag―では与えられたプログラムなどの脆弱性�
 
 Pwnはその中でもサーバーを攻撃してその制御を奪う部門と言えます。
 
-制御を奪うと言っても、うまく想像できないとは思いますが、具体的には :command:`/bin/sh` のようなシェルを実行することを言います。
+制御を奪うと言っても、うまく想像できないとは思いますが、 :command:`/bin/sh` のようなシェルを実行することを言います。
 
 .. figure:: terminal.png
     :name: terminal
@@ -26,4 +26,4 @@ CTFでは厳密に言えば、どこかに書いてあるフラグを読み取�
 
     \clearpage
 
-.. include:: pwn_route.rst
+.. include:: attack_on_a_server.rst_sub
