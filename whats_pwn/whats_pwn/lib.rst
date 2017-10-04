@@ -27,3 +27,5 @@ CTFでは厳密に言えば、どこかに書いてあるフラグを読み取�
     \clearpage
 
 .. include:: attack_on_a_server.rst_sub
+
+.. include:: processing_a_program.rst_sub
